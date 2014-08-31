@@ -1,0 +1,8 @@
+
+Q1. Find top 10 average rated movies with descending order of rating (Use of chaining of multiple map-reduce job is a must here.)
+
+Q2. List each genre of movie and count the movies of each genre.
+
+Q3. Given some genre, find all the movies belong to that genre.
+
+
